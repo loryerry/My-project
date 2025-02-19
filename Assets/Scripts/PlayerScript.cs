@@ -5,6 +5,7 @@ using UnityEngine.InputSystem;
 public class PlayerScript : MonoBehaviour
 {
     public InputAction moveAction;
+    private float speed = 0.2f;
     private bool FacingRight = true;
 
     [Header("Player Movement Settings")]
@@ -20,7 +21,7 @@ public class PlayerScript : MonoBehaviour
     {
         // Меняем положение игрока в соответствии с нажатой клавишой
         Vector2 move = moveAction.ReadValue<Vector2>();
-        Vector2 position = (Vector2)transform.position + move * 0.05f;
+        Vector2 position = (Vector2)transform.position + move * speed;
         transform.position = position;
 
         // Реверсируем модельку персонажа в зависимости от направления
