@@ -1,10 +1,11 @@
 fileFormatVersion: 2
-guid: b88f046b7b00407488659f5992d9ccd9
+guid: 31f593af214fc4b4cb33ac79d9d07de6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7367249781299723531
-    second: quickpanel_0
+      213: 5021705017753675593
+    second: "\u0422\u0440\u0430\u0432\u0443\u0448\u043A\u0430 \u043C\u0443\u0440\u0430\u0432\u0443\u0448\u043A\u0430
+      2_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,33 +85,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Win64
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -126,13 +101,14 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: quickpanel_0
+      name: "\u0422\u0440\u0430\u0432\u0443\u0448\u043A\u0430 \u043C\u0443\u0440\u0430\u0432\u0443\u0448\u043A\u0430
+        2_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 450
-        height: 110
+        width: 500
+        height: 500
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +117,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f24e067b5542c990800000000000000
-      internalID: -7367249781299723531
+      spriteID: 94721068b1ea0b540800000000000000
+      internalID: 5021705017753675593
       vertices: []
       indices: 
       edges: []
@@ -160,8 +136,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      quickpanel_0: -7367249781299723531
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
