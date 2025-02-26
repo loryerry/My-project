@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 82926d32ea1034246b3272469f05d25f
+guid: 61c98f55f35f27740b9008443e6c725f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1276477541050525466
-    second: seregaTrue_0
+      213: -8880092494206729619
+    second: hpBar_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,40 +122,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: seregaTrue_0
+      name: hpBar_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 290
-        height: 260
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+        width: 550
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a17a41e7f85f6b110800000000000000
-      internalID: 1276477541050525466
+      spriteID: d62023edce293c480800000000000000
+      internalID: -8880092494206729619
       vertices: []
       indices: 
       edges: []
@@ -164,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d4672164ab0f5554ea777af99069463c
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      seregaTrue_0: 1276477541050525466
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
