@@ -188,4 +188,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58d5e241d24a52f46971de3417cee207, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 8123483236449285926}
+  speed: 0
+  facingDirection: -1
+  player: {fileID: 0}
+  anim: {fileID: 0}
