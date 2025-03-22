@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8123483236449285926}
   - component: {fileID: 1243995387540031138}
   - component: {fileID: 7008999728129485269}
+  - component: {fileID: 2820681194289749684}
   m_Layer: 0
   m_Name: chert_0
   m_TagString: Untagged
@@ -175,3 +176,16 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.794239, y: 1.404643}
   m_EdgeRadius: 0
+--- !u!114 &2820681194289749684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2937666468743633038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d5e241d24a52f46971de3417cee207, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 8123483236449285926}
